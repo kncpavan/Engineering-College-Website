@@ -1,2 +1,2 @@
 # Engineering-College-Website
-This is a frontend website created using HTML and CSS. This website is about an Enginnering College with all features College Administration.
+This is a frontend website created using HTML and CSS. This website is about an Enginnering College with all features of College Administration.
